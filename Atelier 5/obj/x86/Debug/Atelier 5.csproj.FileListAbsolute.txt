@@ -1,0 +1,61 @@
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\bin\Debug\Atelier 5.pdb
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\MainWindow.baml
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\MainWindow.g.cs
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\App.g.cs
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_MarkupCompile.cache
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.g.resources
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier_5.Properties.Resources.resources
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.exe
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.pdb
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\View\FilteredListViewModel.baml
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\View\FilteredListViewModel.g.cs
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_Content.g.cs
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe.config
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\bin\Debug\Entreprise.sdf
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\adeneuville\documents\visual studio 2010\Projects\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_MarkupCompile.lref
+D:\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe.config
+D:\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.exe
+D:\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.pdb
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe.config
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.exe
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.pdb
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\bin\Debug\Entreprise.sdf
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\bin\Debug\Atelier 5.pdb
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\View\FilteredListViewModel.baml
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\View\FilteredListViewModel.g.cs
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\App.g.cs
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_Content.g.cs
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_MarkupCompile.cache
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_MarkupCompile.lref
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\MainWindow.baml
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.g.resources
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier_5.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe.config
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.exe
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.pdb
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\View\FilteredListViewModel.baml
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\View\FilteredListViewModel.g.cs
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\App.g.cs
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_Content.g.cs
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_MarkupCompile.cache
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5_MarkupCompile.lref
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\bin\Debug\Entreprise.sdf
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\bin\Debug\Atelier 5.exe
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\bin\Debug\Atelier 5.pdb
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\MainWindow.baml
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.g.resources
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier_5.Properties.Resources.resources
+C:\Users\Mohamed\Documents\GitHub\Atelier 5\Atelier 5\obj\x86\Debug\Atelier 5.csproj.GenerateResource.Cache
