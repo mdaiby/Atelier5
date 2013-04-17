@@ -64,15 +64,14 @@ namespace Atelier_5.ViewModel
                                };
                     case 4:
                         return from customer in _context.Customers
-                               join order in _context.Orders on customer.Customer_ID equals order.Customer_ID
-                                   into orders
+                              
+                                   where customer.Country == "France"
                                select new 
                                {
-                                   customer.Contact_Name,
-                                   OrderCount = orders.Count() 
+                                   Nom =customer.Contact_Name,
+                                   OrderCount = customer.Orders.Count 
                                };
                     case 5:
-
                         
                        return from produit in _context.Products
                                     group produit by produit.Category_ID into grp
@@ -109,29 +108,5 @@ namespace Atelier_5.ViewModel
         public event PropertyChangedEventHandler PropertyChanged;
     }
 
-    public partial class Order
-    {
-        private Model.EntrepriseEntities _context;
-        public Order(Model.EntrepriseEntities context)
-        {
-            _context = context;
-        }
-        public decimal _Amount
-        {
-            get 
-            {
-                return from order in _context.Orders
-                       join orders in _context.Order_Details on order.Order_ID equals orders.Order_ID
-                       into orders 
-                       group order by order.Order_ID into grp
-                       select new
-                       {
-                           Orders = grp.Key,
-                           Amount = grp.Sum(order => order.Freight)
-
-                       };
-            }
-        }
-
-    }
+   
 }
