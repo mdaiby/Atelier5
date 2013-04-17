@@ -15,7 +15,7 @@ namespace Atelier_5.ViewModel
         public FilteredListViewModel(Model.EntrepriseEntities context)
         {
             _context = context;
-            _filters = "Tout le staff,10$ et moins,Par date d'anniversaire,Par âge croissant,Commandes françaises,Prix moyen par catégorie".Split(',');
+            _filters = "Tout le staff,10$ et moins,Par date d'anniversaire,Par âge croissant,Commandes françaises,Prix moyen par catégorie, Montant Total".Split(',');
 
         }
         public IEnumerable<object> FilteredList
@@ -80,6 +80,8 @@ namespace Atelier_5.ViewModel
                                         Category = grp.Key,
                                         AveragePrice = grp.Average(produit => produit.Unit_Price)
                                     };
+                    case 6:
+                       return _context.Orders;
                    
                     default:
                         return new string[] {
